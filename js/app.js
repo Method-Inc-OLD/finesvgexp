@@ -98,19 +98,24 @@ class App{
     initFace(emotion){
         var emotionObj = this.emotionalStates[emotion];
 
-        this.faceElements.push(emotionObj.lEye);
-        this.container.appendChild(emotionObj.lEye);
+        let lEye = emotionObj.lEye.cloneNode(true);
+        let rEye = emotionObj.rEye.cloneNode(true);
+        let mouth = emotionObj.mouth.cloneNode(true);
 
-        this.faceElements.push(emotionObj.rEye);
-        this.container.appendChild(emotionObj.rEye);
+        this.faceElements.push(lEye);
+        this.container.appendChild(lEye);
 
-        this.faceElements.push(emotionObj.mouth);
-        this.container.appendChild(emotionObj.mouth);
+        this.faceElements.push(rEye);
+        this.container.appendChild(rEye);
+
+        this.faceElements.push(mouth);
+        this.container.appendChild(mouth);
     }
 
     updateFace(){
-        let emotions = []; 
-        let total = 0; 
+        let emotions = [];         
+        let total = 0.0; 
+
         for(var key in this.emotionalStateControls){
             if(this.emotionalStateControls[key].value <= 0){
                 continue; 
@@ -143,7 +148,7 @@ class App{
         var rEyeTarget = this.getEmotion("Neutral").rEye.getAttribute("d");
         var mouthTarget = this.getEmotion("Neutral").mouth.getAttribute("d");
 
-        for(let i=0; i<emotions.length; i++){
+        for(let i=0; i<emotions.length; i++){                        
             var lEyeVal = this.getEmotion(emotions[i]["emotion"]).lEye.getAttribute("d");
             var rEyeVal = this.getEmotion(emotions[i]["emotion"]).rEye.getAttribute("d");
             var mouthVal = this.getEmotion(emotions[i]["emotion"]).mouth.getAttribute("d");
@@ -156,8 +161,8 @@ class App{
 
             interpolator = flubber.interpolate(mouthTarget, mouthVal);
             mouthTarget = interpolator(emotions[i]["value"]);            
-        }
-        
+        }            
+
         this.leftEye.setAttribute("d", lEyeTarget);
         this.rightEye.setAttribute("d", rEyeTarget);
         this.mouth.setAttribute("d", mouthTarget);
@@ -398,4 +403,12 @@ class App{
         this.height = document.height || document.body.clientHeight;
     }
 
+    clone(obj){
+        if (null == obj) return obj;
+        var copy = obj.constructor();
+        for (var attr in obj) {
+            if (obj.hasOwnProperty(attr)) copy[attr] = obj[attr];
+        }
+        return copy;
+    }
 }
