@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="218px" viewBox="0 0 205 218" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Righteousness</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Righteousness" transform="translate(5.000000, 0.000000)">
+            <path d="M194,155.5 C194,124.35 150.77,155.5 97.44,155.5 C44.11,155.5 0.88,124.35 0.88,155.5 C0.88,186.65 44.11,211.91 97.44,211.91 C150.77,211.91 194,186.65 194,155.5 Z" id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M55.52,46 C66.72,34.8 54.85,28.51 43.65,17.31 C32.45,6.11 26.16,-5.75 15,5.45 C3.84,16.65 15.67,22.94 26.87,34.14 C38.07,45.34 44.32,57.21 55.52,46 Z" id="eye_l" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M179.89,5.45 C168.69,-5.75 162.4,6.12 151.2,17.32 C140,28.52 128.13,34.81 139.33,46 C150.53,57.19 156.82,45.33 168.02,34.13 C179.22,22.93 191.1,16.65 179.89,5.45 Z" id="eye_r" fill="#1D1D1B" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

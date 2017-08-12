@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="190px" viewBox="0 0 205 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Neutral</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Neutral" transform="translate(5.000000, 0.000000)">
+            <circle id="eye_l" fill="#1D1D1B" fill-rule="nonzero" cx="34.65" cy="29.49" r="28.68"></circle>
+            <circle id="eye_r" fill="#1D1D1B" fill-rule="nonzero" cx="160.11" cy="29.49" r="28.68"></circle>
+            <ellipse id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" cx="97.17" cy="180.87" rx="96.56" ry="3.17"></ellipse>
+        </g>
+    </g>
+</svg>

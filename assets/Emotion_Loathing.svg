@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="187px" viewBox="0 0 205 187" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Loathing</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Loathing" transform="translate(5.000000, 0.000000)">
+            <path d="M194,166.71 C194,135.56 150.77,110.3 97.44,110.3 C44.11,110.3 0.88,135.56 0.88,166.71 C0.88,197.86 44.11,166.71 97.44,166.71 C150.77,166.71 194,197.87 194,166.71 Z" id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M35.24,10.07 C51.08,10.07 63.92,23.34 63.92,7.5 C63.92,-8.34 51.08,6.84 35.24,6.84 C19.4,6.84 6.56,-8.34 6.56,7.5 C6.56,23.34 19.4,10.07 35.24,10.07 Z" id="eye_l" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M159.61,10.07 C175.45,10.07 188.29,23.34 188.29,7.5 C188.29,-8.34 175.45,6.84 159.61,6.84 C143.77,6.84 130.93,-8.34 130.93,7.5 C130.93,23.34 143.77,10.07 159.61,10.07 Z" id="eye_r" fill="#1D1D1B" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

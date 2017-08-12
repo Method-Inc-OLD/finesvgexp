@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="183px" height="183px" viewBox="0 0 183 183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Intrigue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Intrigue">
+            <path d="M29.24,10.1 C45.08,10.1 57.92,23.37 57.92,7.53 C57.92,-8.31 45.08,6.87 29.24,6.87 C13.4,6.87 0.56,-8.31 0.56,7.53 C0.56,23.37 13.4,10.1 29.24,10.1 Z" id="eye_l" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M153.61,10.1 C169.45,10.1 182.29,23.37 182.29,7.53 C182.29,-8.31 169.45,6.87 153.61,6.87 C137.77,6.87 124.93,-8.31 124.93,7.53 C124.93,23.37 137.77,10.1 153.61,10.1 Z" id="eye_r" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M161.45,134.7 C161.45,111.6 169.45,166.2 91.45,165.85 C14.19,165.51 21.38,111.6 21.38,134.7 C21.38,157.8 52.74,176.53 91.38,176.53 C130.02,176.53 161.45,157.8 161.45,134.7 Z" id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

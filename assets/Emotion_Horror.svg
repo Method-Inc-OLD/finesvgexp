@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="199px" viewBox="0 0 205 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Horror</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Horror" transform="translate(5.000000, 0.000000)">
+            <path d="M194,176.54 C194,145.39 150.77,165.72 97.44,165.72 C44.11,165.72 0.88,145.39 0.88,176.54 C0.88,207.69 44.11,184.79 97.44,184.79 C150.77,184.79 194,207.69 194,176.54 Z" id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M176.5,45.28 C187.7,34.08 175.83,27.79 164.63,16.59 C153.43,5.39 147.14,-6.48 135.94,4.72 C124.74,15.92 136.61,22.21 147.81,33.41 C159.01,44.61 165.3,56.48 176.5,45.28 Z" id="eye_r" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M52.13,4.72 C40.93,-6.48 34.64,5.39 23.44,16.59 C12.24,27.79 0.37,34.08 11.57,45.28 C22.77,56.48 29.06,44.61 40.26,33.41 C51.46,22.21 63.33,15.92 52.13,4.72 Z" id="eye_l" fill="#1D1D1B" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

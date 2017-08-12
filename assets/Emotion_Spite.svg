@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="195px" viewBox="0 0 205 195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Spite</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Spite" transform="translate(5.000000, 0.000000)">
+            <path d="M194,174.76 C194,143.61 150.77,118.35 97.44,118.35 C44.11,118.35 0.88,143.61 0.88,174.76 C0.88,205.91 44.11,174.76 97.44,174.76 C150.77,174.76 194,205.92 194,174.76 Z" id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M6.56,7.28 C6.56,23.1195266 19.4004734,35.96 35.24,35.96 C51.0795266,35.96 63.92,23.1195266 63.92,7.28 C63.92,-8.56 51.08,7.28 35.24,7.28 C19.4,7.28 6.56,-8.56 6.56,7.28 Z" id="eye_l" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M130.93,7.28 C130.93,23.1195266 143.770473,35.96 159.61,35.96 C175.449527,35.96 188.29,23.1195266 188.29,7.28 C188.29,-8.56 175.45,7.28 159.61,7.28 C143.77,7.28 130.93,-8.56 130.93,7.28 Z" id="eye_r" fill="#1D1D1B" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

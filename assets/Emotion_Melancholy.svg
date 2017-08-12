@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="186px" viewBox="0 0 205 186" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Melancholy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Melancholy" transform="translate(5.000000, 0.000000)">
+            <ellipse id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" cx="97.43" cy="177.04" rx="96.56" ry="3.17"></ellipse>
+            <path d="M179.89,45.71 C191.09,34.51 179.22,28.22 168.02,17.02 C156.82,5.82 150.53,-6.05 139.33,5.15 C128.13,16.35 140,22.64 151.2,33.84 C162.4,45.04 168.69,56.91 179.89,45.71 Z" id="eye_r" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M55.52,5.15 C44.32,-6.05 38.03,5.82 26.83,17.02 C15.63,28.22 3.76,34.51 15,45.71 C26.24,56.91 32.49,45.04 43.69,33.84 C54.89,22.64 66.72,16.35 55.52,5.15 Z" id="eye_l" fill="#1D1D1B" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

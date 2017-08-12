@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="183px" height="192px" viewBox="0 0 183 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Betrayal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Betrayal">
+            <path d="M57.79,29.6 C57.79,13.7604734 44.9495266,0.92 29.11,0.92 C13.2704734,0.92 0.43,13.7604734 0.43,29.6 C0.43,45.44 13.27,29.6 29.11,29.6 C44.95,29.6 57.79,45.44 57.79,29.6 Z" id="eye_l" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M182.17,29.6 C182.17,13.7604734 169.329527,0.92 153.49,0.92 C137.650473,0.92 124.81,13.7604734 124.81,29.6 C124.81,45.44 137.65,29.6 153.49,29.6 C169.33,29.6 182.17,45.44 182.17,29.6 Z" id="eye_r" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M21.28,180.18 C21.28,203.28 13.28,148.68 91.28,149.03 C168.54,149.37 161.35,203.28 161.35,180.18 C161.35,157.08 129.99,138.35 91.35,138.35 C52.71,138.35 21.28,157.08 21.28,180.18 Z" id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

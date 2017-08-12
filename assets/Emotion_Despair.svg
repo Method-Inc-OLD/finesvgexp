@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="201px" viewBox="0 0 205 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Despair</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Despair">
+            <path d="M160.43,43.91 C165.808558,49.2886519 173.103504,52.310355 180.71,52.310355 C188.316496,52.310355 195.611442,49.2886519 200.99,43.91 C212.19,32.71 191.91,34.83 180.71,23.63 C169.51,12.43 171.63,-7.85 160.43,3.35 C155.051348,8.72855777 152.029645,16.0235041 152.029645,23.63 C152.029645,31.2364959 155.051348,38.5314422 160.43,43.91 Z" id="eye_r" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M44.79,3.35 C33.59,-7.85 35.71,12.43 24.51,23.63 C13.31,34.83 -7,32.71 4.23,43.91 C15.4303348,55.1103344 33.5896651,55.1103343 44.7899997,43.9099997 C55.9903343,32.7096651 55.9903344,14.5503348 44.79,3.35 L44.79,3.35 Z" id="eye_l" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M32.59,189 C32.59,212.1 24.59,157.5 102.59,157.85 C179.85,158.19 172.66,212.1 172.66,189 C172.66,165.9 141.3,147.17 102.66,147.17 C64.02,147.17 32.59,165.92 32.59,189 Z" id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

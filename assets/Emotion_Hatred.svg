@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="199px" viewBox="0 0 205 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Hatred</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Hatred" transform="translate(5.000000, 0.000000)">
+            <path d="M194,176.4 C194,145.25 150.77,165.58 97.44,165.58 C44.11,165.58 0.88,145.25 0.88,176.4 C0.88,207.55 44.11,184.65 97.44,184.65 C150.77,184.65 194,207.56 194,176.4 Z" id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M176.5,4.59 C165.3,-6.61 159.01,5.26 147.81,16.46 C136.61,27.66 124.74,33.95 135.94,45.15 C147.14,56.35 153.43,44.48 164.63,33.28 C175.83,22.08 187.71,15.79 176.5,4.59 Z" id="eye_r" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M52.13,45.15 C63.33,33.95 51.46,27.66 40.26,16.46 C29.06,5.26 22.77,-6.61 11.57,4.59 C0.37,15.79 12.24,22.08 23.44,33.28 C34.64,44.48 40.93,56.35 52.13,45.15 Z" id="eye_l" fill="#1D1D1B" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

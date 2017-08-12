@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="183px" height="234px" viewBox="0 0 183 234" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Surprise</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Surprise">
+            <ellipse id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" cx="91.43" cy="191.17" rx="69.61" ry="37.3"></ellipse>
+            <ellipse id="eye_l" fill="#1D1D1B" fill-rule="nonzero" cx="29.24" cy="40.11" rx="28.68" ry="39.73"></ellipse>
+            <ellipse id="eye_r" fill="#1D1D1B" fill-rule="nonzero" cx="153.61" cy="40.11" rx="28.68" ry="39.73"></ellipse>
+        </g>
+    </g>
+</svg>

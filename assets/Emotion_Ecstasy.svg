@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="220px" viewBox="0 0 205 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Ecstasy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Ecstasy" transform="translate(5.000000, 0.000000)">
+            <path d="M194,157.48 C194,126.33 150.77,157.48 97.44,157.48 C44.11,157.48 0.88,126.33 0.88,157.48 C0.88,188.63 44.11,213.89 97.44,213.89 C150.77,213.89 194,188.63 194,157.48 Z" id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle id="eye_l" fill="#1D1D1B" fill-rule="nonzero" cx="35.24" cy="29.64" r="28.68"></circle>
+            <circle id="eye_r" fill="#1D1D1B" fill-rule="nonzero" cx="159.61" cy="29.64" r="28.68"></circle>
+        </g>
+    </g>
+</svg>

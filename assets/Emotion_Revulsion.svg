@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="195px" viewBox="0 0 205 195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Revulsion</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Revulsion" transform="translate(5.000000, 0.000000)">
+            <path d="M194,174.76 C194,143.61 150.77,118.35 97.44,118.35 C44.11,118.35 0.88,143.61 0.88,174.76 C0.88,205.91 44.11,174.76 97.44,174.76 C150.77,174.76 194,205.92 194,174.76 Z" id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M63.92,28.92 C63.9200002,18.6736227 58.4536231,9.20557961 49.5800002,4.08239092 C40.7063772,-1.04079778 29.7736228,-1.04079778 20.8999998,4.08239092 C12.0263769,9.20557961 6.55999978,18.6736227 6.56,28.92 C6.56,44.76 19.4,28.92 35.24,28.92 C51.08,28.92 63.92,44.76 63.92,28.92 Z" id="eye_l" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M188.3,28.92 C188.3,13.0804734 175.459527,0.24 159.62,0.24 C143.780473,0.24 130.94,13.0804734 130.94,28.92 C130.94,44.76 143.78,28.92 159.62,28.92 C175.46,28.92 188.3,44.76 188.3,28.92 Z" id="eye_r" fill="#1D1D1B" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="192px" viewBox="0 0 205 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Emotion_Shame</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Emotion_Shame" transform="translate(5.000000, 0.000000)">
+            <path d="M63.92,29.22 C63.9200002,18.9736227 58.4536231,9.50557961 49.5800002,4.38239092 C40.7063772,-0.740797778 29.7736228,-0.740797778 20.8999998,4.38239092 C12.0263769,9.50557961 6.55999978,18.9736227 6.56,29.22 C6.56,45.06 19.4,29.22 35.24,29.22 C51.08,29.22 63.92,45.06 63.92,29.22 Z" id="eye_l" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M188.3,29.22 C188.3,13.3804734 175.459527,0.54 159.62,0.54 C143.780473,0.54 130.94,13.3804734 130.94,29.22 C130.94,45.06 143.78,29.22 159.62,29.22 C175.46,29.22 188.3,45.06 188.3,29.22 Z" id="eye_r" fill="#1D1D1B" fill-rule="nonzero"></path>
+            <path d="M194,169.94 C194,138.79 150.77,159.12 97.44,159.12 C44.11,159.12 0.88,138.79 0.88,169.94 C0.88,201.09 44.11,178.19 97.44,178.19 C150.77,178.19 194,201.1 194,169.94 Z" id="mouth" stroke="#1D1D1B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
